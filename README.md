@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Preetha
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning hibernate
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me preetharam230@gmail.com
-- 😄 Pronouns: She/jher
-- ⚡ Fun fact: When you start learn something
-- new you feel dumb but it makes you smarter.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: When you start learn something new you feel dumb but it makes you smarter.
